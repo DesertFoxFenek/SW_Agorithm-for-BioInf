@@ -1,5 +1,6 @@
 # SW_Agorithm-for-BioInf
-Zadanie na uczelnie. Treść: Napisz program wyszukujące wszystkie dopasowane pod sekwencje składające się z ponad k aminokwasów.                                              Autorzy: Desert_Fox_Fenek&amp;Ciemny99
+Zadanie na uczelnie. Treść: Napisz program wyszukujące wszystkie dopasowane pod sekwencje składające się z ponad k aminokwasów.
+Autorzy: Desert_Fox_Fenek&Ciemny99
 
 #####################################################################
 
