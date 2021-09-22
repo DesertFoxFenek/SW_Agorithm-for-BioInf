@@ -1,4 +1,4 @@
-#created by Desert_Fox_Fenek & Ciemny99
+#created by Desert_Fox_Fenek
 
 import numba
 import numpy
